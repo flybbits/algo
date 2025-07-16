@@ -85,6 +85,10 @@
     "type_traits": "cpp",
     "tuple": "cpp",
     "typeinfo": "cpp",
-    "utility": "cpp"
+    "utility": "cpp",
+    "list": "c",
+    "__split_buffer": "c",
+    "queue": "c",
+    "cstring": "cpp"
   }
 }
